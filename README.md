@@ -27,7 +27,7 @@ Görüntüdeki gürültüyü azaltmak ancak kenarları keskin tutmak için tekra
 
 | Orijinal | Cartoon Efekti | Sketch Efekti |
 | :---: | :---: | :---: |
-| ![Original](screenshots/original.jpg) | ![Cartoon](screenshots/cartoon_result.jpg) | ![Sketch](screenshots/sketch_result.jpg) |
+| ![Original](screenshots/original.jpg) | ![Cartoon](screenshots/cartoon_result.png) | ![Sketch](screenshots/sketch_result.png) |
 
 *(Not: Yukarıdaki dosya isimlerini (original.jpg vb.) kendi resim isimlerinle değiştirmeyi unutma!)*
 ## 🐛 Çözülen Zorluklar (Challenges & Solutions)
