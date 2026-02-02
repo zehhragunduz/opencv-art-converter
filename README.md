@@ -23,7 +23,13 @@ Gri tonlamalı görüntü ters çevrilir (Invert) ve Gauss bulanıklığı uygul
 
 ### 2. Cartoon Efekti
 Görüntüdeki gürültüyü azaltmak ancak kenarları keskin tutmak için tekrarlı **Bilateral Filter** uygulanır. Ardından **Adaptive Thresholding** ile kenar maskesi çıkarılır ve renklendirilmiş görüntü ile birleştirilir.
+## 📸 Proje Önizlemeleri
 
+| Orijinal | Cartoon Efekti | Sketch Efekti |
+| :---: | :---: | :---: |
+| ![Original](screenshots/original.jpg) | ![Cartoon](screenshots/cartoon_result.jpg) | ![Sketch](screenshots/sketch_result.jpg) |
+
+*(Not: Yukarıdaki dosya isimlerini (original.jpg vb.) kendi resim isimlerinle değiştirmeyi unutma!)*
 ## 🐛 Çözülen Zorluklar (Challenges & Solutions)
 
 Geliştirme sürecinde karşılaşılan ve çözülen kritik problemler:
